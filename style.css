@@ -1,0 +1,21 @@
+<style> 
+    h1 {color:blue;}
+    p {color:black}
+    </style> 
+
+<style>
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+</style>
+
